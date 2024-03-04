@@ -1,0 +1,29 @@
+/* 1 Regra de cor para paragrafo */
+
+p {
+    margin-left: 1cm;
+    color: red;
+}
+
+/* 2 Regra de fonte para titulo de texto */ 
+
+h4 {
+    color: cornflowerblue;
+    font-size: 25px;
+    background-color: antiquewhite;
+    background-size: 0.2cm;
+}
+
+/* 3 Regra de borda e cor em lista */
+
+ol{
+    border: 1px solid blue;
+    padding: 1px;
+    color: gold;
+}
+
+/* 4 cor de fundo de texto */
+
+h2 {
+    font-style: italic;
+}
